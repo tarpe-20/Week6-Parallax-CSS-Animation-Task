@@ -6,4 +6,4 @@
 
 
 Lehel peab olema kasutatud parallax effekt.
-Välemal ühe ala taustal peab olema muudetud clip-path omadus
+Vähemalt ühe ala taustal peab olema muudetud clip-path omadus
